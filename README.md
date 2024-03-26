@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -20,10 +19,6 @@ This was a QR code component challenge on Frontend Mentor that I have completed.
 
 ![](./sample.png)
 
-### Links
-
-- Solution URL: [Take a look here!](https://your-solution-url.com)
-
 ## My process
 
 First I downloaded the starter to get a more detailed look into the design. Then I redesign the card in Figma to get a feel on the coding process. From there, I began to create the QR code. It was an easy build but rough in the beginning since it's been awhile since I used HTML and CSS. 
@@ -35,7 +30,9 @@ First I downloaded the starter to get a more detailed look into the design. Then
 
 ### Continued development
 
-I want to change myself and design a Spotify card. I was inspired from doing this challenge to create my own. 
+I want to change myself and design a Spotify card. I was inspired by this challenge to create my own. 
+
+Status: Final stage of uploading to GitHub :D
 
 ## Author
 
