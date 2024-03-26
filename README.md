@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Link](#Link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -18,6 +19,10 @@ This was a QR code component challenge on Frontend Mentor that I have completed.
 ### Screenshot
 
 ![](./sample.png)
+
+### Link
+
+- Solution URL: [Take a look here!](https://leannehong.github.io/QR-Code-Card/)
 
 ## My process
 
